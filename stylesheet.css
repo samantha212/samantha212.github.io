@@ -1,0 +1,26 @@
+.intro {
+	font-family: Arial;
+	background-color: #AD85FF;
+	border-style: double;
+	border-width: 6px;
+	border-color: #34284C;
+}
+
+.intro h1{
+	font-size: 40px;
+	font-style: bold;
+	font-color: #FFFFFF;
+}
+
+.intro p{
+	font-size: 16px;
+	font-color: #FOFOFO;
+}
+
+.content{
+	font-family: Arial;
+	background-color: #D6C2FF;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #34284C;
+}
