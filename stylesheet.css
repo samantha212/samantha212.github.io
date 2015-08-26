@@ -1,26 +1,104 @@
 .intro {
-	font-family: Arial;
-	background-color: #AD85FF;
-	border-style: double;
-	border-width: 6px;
-	border-color: #34284C;
+	font-family: Candara, Helvetica, sans-serif;
+	background-color: #807E82;
+	padding: 5px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 230px;
+	width: 1100px;
+}
+
+.intro img{
+	border-style: solid;
+	border-color: #EBE3D9;
+	border-width: 5px;
+	margin-left: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 180px;
 }
 
 .intro h1{
-	font-size: 40px;
-	font-style: bold;
-	font-color: #FFFFFF;
+	font-size: 56px;
+	color: #EBE3D9;
+	text-align: right;
+	font-weight: bold;
+	padding-right: 40px;
+	margin-bottom: 4px;
 }
 
 .intro p{
 	font-size: 16px;
-	font-color: #FOFOFO;
+	color: #E0CDAF;
+	text-align: right;
+	padding-right: 30px;
+	font-weight: bold;
+	margin-bottom: -6px;
 }
 
 .content{
-	font-family: Arial;
-	background-color: #D6C2FF;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #34284C;
+	font-family: Candara, Helvetica, sans-serif;
+	background-color: #EBE3D9;
+	border-style: double;
+	border-width: 5px;
+	border-color: #B8B8B8;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1060px;
+}
+
+.content h2{
+	font-variant: small-caps;
+	font-size: 28px;
+	color: #E0CDAF;
+	background-color: #807E82;
+	text-align: center;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.content ul{
+	list-style-type: square;
+	padding-top: 0px;
+	padding-bottom: 12px;
+	color: #6E615A;
+}
+
+.content h4{
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	color: #6E615A;
+}
+
+.content h5{
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	color: #6E615A;
+}
+
+.content h6{
+	font-size: 18px;
+	font-style: italic;
+	padding-top: 0px;
+	padding-bottom: 4px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	color: #6E615A;
 }
