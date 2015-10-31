@@ -60,7 +60,7 @@ header ul {
 
 header li {
 	display: inline-block;
-	width: 250px;
+	width: 300px;
 }
 
 header a{
@@ -73,6 +73,7 @@ header a{
 	text-align: center;
 	background-color: #614752;
 	padding: 10px 0;
+	margin: 0 10px;
 	box-shadow: -5px -5px 8px #423138 inset;
 	border-radius: 10px
 }
@@ -85,7 +86,7 @@ header a:active {
 	background-color: #34282d;
 }
 
-main h1, h2, h3, h4, ul, li, p {
+main h1, main h2, main h3, main h4, main ul, main li, main p {
 	padding: 0 40px 0 40px;
 }
 
